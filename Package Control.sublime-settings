@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS-sublime-package",
+		"Babel",
+		"Babel Snippets",
+		"Better CoffeeScript",
+		"Better RSpec",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"Package Control",
+		"RSpec",
+		"Sass",
+		"SassBeautify",
+		"SublimeERB",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
+	],
+	"repositories":
+	[
+		"https://github.com/angular-ui/AngularJS-sublime-package.git"
+	]
+}
